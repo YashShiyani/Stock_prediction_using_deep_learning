@@ -1,15 +1,9 @@
-# Stock Prediction using Deep Learning Models
-In this project, a selection of certain stocks data listed in the NSE and BSE are used for the prediction of trend.
-Our program is aimed to identify the trend of the price of the target stock.
-Prediction here refers to the general trend of the specific stock price.
-The main goal is to reduce the RMSE values and to compare the algorithms based on error.
-
-You can check out on the hosted site: https://bit.ly/3pBaZl5
 # 📈 Stock Price Analysis Project
 
 ## Overview
 
-This project involves a comprehensive analysis of stock market indicators to assess the technology sector. Leveraging Python for data cleaning, visualization, API frameworks, and statistical techniques, the project aims to enhance data-driven insights and decision-making processes. The analysis was conducted on data from over 15 companies, resulting in significant improvements in data accuracy and understanding of market trends.
+In this project, we conducted a comprehensive analysis of stock market indicators to assess the technology sector, using data from stocks listed in the NSE and BSE for trend prediction. Leveraging Python for data cleaning, visualization, API frameworks, and statistical techniques, our program aims to identify the general trend of specific stock prices. The main goals are to reduce RMSE values, compare algorithms based on error, and enhance data-driven insights and decision-making processes. The analysis was conducted on data from over 15 companies, resulting in significant improvements in data accuracy and understanding of market trends.
+You can check out on the hosted site: https://bit.ly/3pBaZl5
 
 ## Project Highlights
 
