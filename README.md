@@ -8,7 +8,6 @@ You can check out on the hosted site: https://bit.ly/3pBaZl5
 ## Project Highlights
 
 - **Objective**: To analyze stock market indicators in the tech sector and derive actionable insights.
-- **Duration**: December 2022
 
 ## Key Achievements
 
@@ -64,8 +63,7 @@ For any questions or further information, please contact:
 
 - **Name**: Yash Rakeshbhai Shiyani
 - **Email**: yashshiyani1511@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **GitHub**: [Your GitHub Profile](#)
+- **LinkedIn**: [https://www.linkedin.com/in/yash-shiyani/](#)
 
 ---
 
